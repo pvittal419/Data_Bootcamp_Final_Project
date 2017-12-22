@@ -17,6 +17,6 @@ or in a different semester, without the express approval of all instructors is s
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
 
-Project Description
+### Project Description
 
 In the United States, there are increasing educational disparities between the rich and poor, with richer students attending public schools that have more resources, which creates the trend of the richer students attending college, and the poorer students falling behind. With this knowledge in mind, I will be joining Teach for America post-graduation, and I will be teaching High School Math in Eastern North Carolina, so my project focuses on STEM Education disparities across household income using data from the Census and North Carolina State Department of Education. 
